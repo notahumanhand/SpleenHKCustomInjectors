@@ -1,0 +1,205 @@
+﻿{
+  "Name": "Grub Palace",
+  "Constraints": [
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    },
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Grub"
+      },
+      "Type": "ATMAPAREA",
+      "Params": [
+        "White Palace"
+      ]
+    }
+  ]
+}
