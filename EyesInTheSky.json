@@ -1,0 +1,12 @@
+{
+  "Name": "Eye Spy",
+  "Priority": 1.0,
+  "IncludeLocations": [
+	"Lurien's_Telescope",
+	"Lurien's_Telescope",
+	"Lurien's_Telescope",
+	"Lurien's_Telescope",
+	"Lurien's_Telescope",
+	"Lurien's_Telescope"
+  ]
+}

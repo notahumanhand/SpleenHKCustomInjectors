@@ -1,0 +1,62 @@
+{
+  "Name": "Bad Time At Colo",
+  "Priority": 3.0,
+  "IncludePreplaced": [
+    {
+      "item": "Grub",
+      "location": "Charm_Notch-Colosseum"
+    },
+    {
+      "item": "Grub",
+      "location": "Pale_Ore-Colosseum"
+    },
+    {
+      "item": "Grub",
+      "location": "The_Glory_of_Being_a_Fool-Colosseum"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Brooding_Mawlek"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Sturdy_Fool"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Shielded_Fool"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Winged_Fool"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Heavy_Fool"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Death_Loodle"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Belfly"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Gruz_Mother"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Gruzzer"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Wandering_Husk"
+    },
+    {
+      "item": "Scarecrow",
+      "location": "Journal_Entry-Husk_Hornhead"
+    }
+  ]
+}

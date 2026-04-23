@@ -1,0 +1,16 @@
+{
+  "Name": "Basin Simple Claw",
+  "Priority": 3.0,
+  "IncludePreplaced": [
+    {
+      "item": "Mantis_Claw",
+      "location": "Simple_Key-Basin"
+    }
+  ],
+  "ExcludeItems": [
+    "Mantis_Claw"
+  ],
+  "ExcludeLocations": [
+    "Simple_Key-Basin"
+  ]
+}

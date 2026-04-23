@@ -1,0 +1,22 @@
+{
+  "Name": "Vanilla Seal of Binding",
+  "Priority": 3.0,
+  "IncludePreplaced": [
+    {
+      "item": "Journal_Entry-Seal_of_Binding",
+      "location": "Journal_Entry-Seal_of_Binding"
+    }
+  ],
+  "ExcludeItems": [
+    "Journal_Entry-Seal_of_Binding"
+  ],
+  "ExcludeLocations": [
+    "Journal_Entry-Seal_of_Binding"
+  ],
+  "ExcludeVanilla": [
+    {
+      "item": "Journal_Entry-Seal_of_Binding",
+      "location": "Journal_Entry-Seal_of_Binding"
+    }
+  ]
+}
