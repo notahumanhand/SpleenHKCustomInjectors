@@ -1,0 +1,22 @@
+{
+  "Name": "Vanilla Claw",
+  "Priority": 3.0,
+  "IncludePreplaced": [
+    {
+      "item": "Mantis_Claw",
+      "location": "Mantis_Claw"
+    }
+  ],
+  "ExcludeItems": [
+    "Mantis_Claw"
+  ],
+  "ExcludeLocations": [
+    "Mantis_Claw"
+  ],
+  "ExcludeVanilla": [
+    {
+      "item": "Mantis_Claw",
+      "location": "Mantis_Claw"
+    }
+  ]
+}

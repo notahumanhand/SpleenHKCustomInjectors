@@ -1,0 +1,15 @@
+﻿{
+  "Name": "French Vanilla Claw",
+  "Constraints": [
+    {
+      "Target": {
+        "match": "ITEM",
+        "name": "Mantis_Claw"
+      },
+      "Type": "ATTITLEDAREA",
+      "Params": [
+        "Mantis Village"
+      ]
+    }
+  ]
+}

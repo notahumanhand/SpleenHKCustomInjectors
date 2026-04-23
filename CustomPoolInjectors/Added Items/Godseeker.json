@@ -1,0 +1,15 @@
+{
+  "Name": "Godseeker",
+  "Priority": 1.0,
+  "IncludeItems": [
+	"Godtuner",
+	"Godtuner",
+	"Godtuner",
+	"Godtuner",
+	"Godtuner",
+	"Godtuner",
+	"Godtuner",
+	"Godtuner",
+	"Godtuner"
+  ]
+}

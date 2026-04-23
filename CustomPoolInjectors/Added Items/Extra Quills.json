@@ -1,0 +1,15 @@
+{
+  "Name": "Extra Quills",
+  "Priority": 1.0,
+  "IncludeItems": [
+	"Quill",
+	"Quill",
+	"Quill",
+	"Quill",
+	"Quill",
+	"Quill",
+	"Quill",
+	"Quill",
+	"Quill"
+  ]
+}

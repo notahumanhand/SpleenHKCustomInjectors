@@ -1,0 +1,63 @@
+{
+  "Name": "Scam Stations",
+  "Priority": 3.0,
+  "IncludePreplaced": [
+    {
+      "item": "Lumafly_Escape",
+      "location": "Crossroads_Stag"
+    },
+    {
+      "item": "Lumafly_Escape",
+      "location": "Greenpath_Stag"
+    },
+    {
+      "item": "Lumafly_Escape",
+      "location": "Queen's_Station_Stag"
+    },
+    {
+      "item": "Lumafly_Escape",
+      "location": "Queen's_Gardens_Stag"
+    },
+    {
+      "item": "Lumafly_Escape",
+      "location": "City_Storerooms_Stag"
+    },
+    {
+      "item": "Lumafly_Escape",
+      "location": "King's_Station_Stag"
+    },
+    {
+      "item": "Lumafly_Escape",
+      "location": "Distant_Village_Stag"
+    },
+    {
+      "item": "Lumafly_Escape",
+      "location": "Hidden_Station_Stag"
+    },
+    {
+      "item": "Lumafly_Escape",
+      "location": "Stag_Nest_Stag"
+    }
+  ],
+  "IncludeItems": [
+    "Lumafly_Escape",
+    "Lumafly_Escape",
+    "Lumafly_Escape",
+    "Lumafly_Escape",
+    "Lumafly_Escape",
+    "Lumafly_Escape",
+    "Lumafly_Escape",
+    "Lumafly_Escape"
+  ],
+  "ExcludeLocations": [
+    "Crossroads_Stag",
+    "Greenpath_Stag",
+    "Queen's_Station_Stag",
+    "Queen's_Gardens_Stag",
+    "City_Storerooms_Stag",
+    "King's_Station_Stag",
+    "Distant_Village_Stag",
+    "Hidden_Station_Stag",
+    "Stag_Nest_Stag"
+  ]
+}

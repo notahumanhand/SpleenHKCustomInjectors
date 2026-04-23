@@ -1,0 +1,26 @@
+{
+  "Name": "Stagging Double",
+  "Priority": 1.0,
+  "IncludeLocations": [
+	"Crossroads_Stag",
+	"Greenpath_Stag",
+	"Queen's_Station_Stag",
+	"Queen's_Gardens_Stag",
+	"City_Storerooms_Stag",
+	"King's_Station_Stag",
+	"Resting_Grounds_Stag",
+	"Distant_Village_Stag",
+	"Hidden_Station_Stag",
+	"Stag_Nest_Stag",
+	"Crossroads_Stag",
+	"Greenpath_Stag",
+	"Queen's_Station_Stag",
+	"Queen's_Gardens_Stag",
+	"City_Storerooms_Stag",
+	"King's_Station_Stag",
+	"Resting_Grounds_Stag",
+	"Distant_Village_Stag",
+	"Hidden_Station_Stag",
+	"Stag_Nest_Stag"
+  ]
+}
